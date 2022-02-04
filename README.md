@@ -1,3 +1,2 @@
-# Why middleware in Express?
-
+# Why middleware in Express
 
